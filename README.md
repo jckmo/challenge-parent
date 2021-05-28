@@ -25,8 +25,3 @@ If you need inspiration, here are examples of what you can work on. If you work 
   * Save nomination lists if the user leaves the page
   * Animations for loading, adding/deleting movies, notifications
   * Create shareable links
-#### Submission
-Please submit your application via “Apply Now” and make sure you include:
-  * A link to your hosted code so we can test it (Free hosting available via: Github pages, Netlify and heroku)
-  * A link to your Github repository containing the code
-  * Any other notes you'd like us to consider alongside the page
