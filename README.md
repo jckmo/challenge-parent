@@ -1,5 +1,3 @@
-https://docs.google.com/document/d/1vc0-KFUUS77-FRg2Ec9OPHLooashcM-Orlo6LPSgLQM/edit#
-# UX Developer Intern & Web Developer Intern Challenge - Fall 2021
 ## The Shoppies: Movie awards for entrepreneurs
 
 ### Shopify has branched out into movie award shows and we need your help. Please build us an app to help manage our movie nominations for the upcoming Shoppies.
